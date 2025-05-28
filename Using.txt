@@ -1,0 +1,1 @@
+LaosNumberToWord.ToWord("10000") 
